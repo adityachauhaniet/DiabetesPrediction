@@ -1,1 +1,1 @@
-# Fake-News-Prediction
+# Diabetes-Prediction
